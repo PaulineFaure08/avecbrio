@@ -62,3 +62,15 @@
 {
     font-family: 'Sen', sans-serif; 
 }
+#application
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-caption {
+    text-decoration: black;
+}
